@@ -1,2 +1,6 @@
-123.456.789.100:8080
-123.456.789.101:8080:user:pass
+# Format: ip:port
+# atau ip:port:username:password
+# Contoh proxy gratis (ganti dengan proxy aktual)
+185.199.229.156:7492
+185.199.228.220:7300
+185.199.231.45:8382
